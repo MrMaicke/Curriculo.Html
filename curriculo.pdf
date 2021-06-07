@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>curriculo</title>
+    <style>
+        body {
+            margin: 10px;
+            background-color: white;
+        }
+
+        .lateral {
+
+            overflow: hidden;
+            float: left;
+            height: 500px;
+            width: 200px;
+            color: white;
+            background-color: rgb(114, 189, 216);
+
+        }
+
+        .conteudo {
+            padding: 20px;
+            float: left;
+            width: 600px;
+            color: black;
+            font-family:'Times New Roman', Times, serif ;
+        }
+
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="lateral">
+
+        <br>
+        <h2>Contato</h2>
+        <p>(11)957467567(Mobile)
+        <p><a href="https://mail.google.com/mail/u/1/#inboxmail.google.com/mail/u/1/#inbox/">marcelosantiago184@gmail.com(Gmail)</a>
+        <p> <a href="https://www.linkedin.com/in/marcelo-santiago184/">www.linkedin.com/in/marcelo-santiago184(LinkedIn)</a>
+        <h3>Principais competências</h3>
+        <p>HTML 5</p>
+        <p>CSS</p>
+        <p>JavaScript</p>
+
+    </div>
+    <div class="conteudo">
+        <h1>Marcelo Santiago de Oliveira</h1>
+        <h4>Desenvolvedor e Estudande de Programação</h4>
+        <h3>Resumo</h3>
+        <p>Sou estudante de Analise e Desenvolvimento de Sistemas na Universidade Uninove, tenho conhecimento em pacote
+            Office, meu objetivo é aprender cada vez mais na área de Tecnologia da Informação. Não desisto, sou criativo
+            em
+            minhas soluções, sei ser liderado e sei liderar caso necessário. Não falho em metas e procuro sempre o
+            melhor.</p>
+
+        <h2>Experiência</h2>
+        Atento Brasil
+        Atendente de telemarketing para o SEM PARAR
+        dezembro de 2019 - janeiro de 2021 (1 ano 2 meses)
+        <br> São Paulo, Brasil
+        <p>Como foi minha primeira experiência CLT eu aprendi muito, cresci intelectualmente, aprendi lições e
+            conquistei
+            amizades que levarei para o resto da minha vida.
+            Atendi todo o tipo de pessoa literalmente sem parar e com essa experience entedi que se for gentil de
+            verdade
+            você consegue ajudar qualquer pessoa.</p>
+
+        <h2>Formação acadêmica</h2>
+        <h5>UNINOVE</h5>
+        <p>Tecnólogo , Análise e Desenvolvimento de Sistemas · (2021 - 2023)
+        <h5>Instituto IOS</h5>
+        ERP_TOTVS, Gestão Empresarial com software ERP. · (2019 - 2019)
+        <h5> Sesc Consolação</h5>
+        Desenvolvimento pessoal, inglês, Administração e Basquete, Letras - Língua Inglesa e suas Literaturas. · (2018 -
+        2019)
+        <h5>Fadlo Haidar</h5>
+        <p>Conclusão do Ensino Medio, Estudos Gerais · (2016 - 2018)
+
+    </div>
+</body>
+
+</html>
